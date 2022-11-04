@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 @font-face {
-	font-family: 'Manrope';
-	src: url('/fonts/Manrope-Regular.ttf') format('truetype');
+	font-family: 'Inter';
+	src: url('/fonts/Inter-Regular.ttf') format('truetype');
 }
 
 html {
-	font-family: Manrope, sans-serif;
+	font-family: Inter, sans-serif;
 }
 
 ::selection {
